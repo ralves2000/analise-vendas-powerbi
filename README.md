@@ -53,26 +53,21 @@ Produtos com menor lucro total apresentaram margens superiores, demonstrando opo
 ## 📸 Dashboard
 
 ### Visão Geral de Vendas
-
-![Visão Geral](01_visao_geral.png.png)
+![Visão Geral](01_visao_geral.png)
 
 ### Análise Regional
-
-![Análise Regional](02_analise_regional.png.png)
+![Análise Regional](02_analise_regional.png)
 
 ### Produtos e Canais
-
-![Produtos e Canais](03_produtos_canais.png.png)
+![Produtos e Canais](03_produtos_canais.png)
 
 ### Indicadores e Performance
-
-![Indicadores](04_indicadores_e_performance.png.png)
+![Indicadores](04_indicadores_e_performance.png)
 
 ### Insights e Recomendações
+![Insights](05_insights_recomendacoes.png)
 
-![Insights](05_insights_recomendacoes.png.png)
-
----
+------------------------------------------
 
 ## 📚 Aprendizados
 
