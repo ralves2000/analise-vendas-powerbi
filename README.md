@@ -61,7 +61,7 @@ Produtos com menor lucro total apresentaram margens superiores, demonstrando opo
 ### Produtos e Canais
 ![Produtos e Canais](03_produtos_canais.png)
 
-### Indicadores e Performance
+## 📊 Indicadores e Performance
 ![Indicadores](04_indicadores_e_performance.png)
 
 ### Insights e Recomendações
